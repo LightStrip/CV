@@ -11,3 +11,6 @@
 6) Matrix themed game from a hackathon.
 
 7) 3d assets from an unreleased app.
+
+8) Neural network implementation in C++ of the same algorithm that is used in the excel 
+and a separate upload with a sample unit test.
